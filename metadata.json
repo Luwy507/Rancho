@@ -1,0 +1,6 @@
+{
+  "name": "Rancho Mogoruza — Empresa Agropecuaria en Panamá",
+  "description": "Sitio web corporativo oficial de Rancho Mogoruza. Ganadería Brahman rojo y gris, producción agrícola de arroz, avicultura, porcicultura y catálogo de animales y cosechas en venta en Panamá.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
